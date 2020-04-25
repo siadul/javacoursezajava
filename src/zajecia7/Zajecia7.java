@@ -28,6 +28,10 @@ public class Zajecia7 {
         System.out.println(arrayList);
 
         arrayList.sort((a, b) -> {
+            // wyrażenia warunkowe
+//            warunek ? wartość jeżeli warunek : jest prawdziwy wartość jeżeli
+//                    warunek jest fałszywy;
+
             return a.getHeads() == b.getHeads() ?
                     a.getPaws() - b.getPaws() : a.getHeads() - b.getHeads();
 
