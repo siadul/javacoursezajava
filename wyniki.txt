@@ -1,0 +1,2 @@
+Długości boków wynoszą: a = 4.00, b = 2.83, c = 2.83
+Długości boków wynoszą: a = 4.12, b = 4.12, c = 2.00
